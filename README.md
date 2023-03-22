@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/83510823/227037337-5ee3f106-a3f2-4ed5-
 
 # To run the app
 
--Emulators will most likely not be an option to run this code. In case the camera won't work use a physical phone.
--To run the app one must enter in the terminal: **flutter run**
+- Emulators will most likely not be an option to run this code. In case the camera won't work use a physical phone.
+- To run the app one must enter in the terminal: **flutter run**
 
 
