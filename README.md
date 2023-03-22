@@ -1,16 +1,21 @@
-# qrcodeexample
+# QRapp
 
-A new Flutter project.
+Project based in Flutter, using mobile_scanner and qr_flutter packages. The app allows the user to :
 
-## Getting Started
+- **Read** QRCodes aswell as the information stored on them
+- **Create** QRCodes based in text inputs
 
-This project is a starting point for a Flutter application.
+# Preview of the app:
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/83510823/227037337-5ee3f106-a3f2-4ed5-bde1-7348c6502a42.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Tecnhinal description and problems addressed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Qr_flutter and mobile_scanner widgets and controllers
+
+# To run the app
+
+Emulators will most likely not be an option to run this code. In case the camera won't work use a physical phone.
+To run the app one must enter in the terminal: **flutter run**
+
+
