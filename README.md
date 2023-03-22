@@ -12,6 +12,8 @@ https://user-images.githubusercontent.com/83510823/227037337-5ee3f106-a3f2-4ed5-
 # Tecnhinal description and problems addressed:
 
 - Qr_flutter and mobile_scanner widgets and controllers
+- TextField information processing 
+- GestureDetector widget to improve usability by allows the user to tap out of the text input easily 
 
 # To run the app
 
